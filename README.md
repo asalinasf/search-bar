@@ -6,6 +6,13 @@ This is a search bar in this project I use HTML, CSS and Material Icons
 
 ![project screen](screen.png)
 
+# Install
+```sh
+git clone https://github.com/asalinasf/search-bar/
+cd search-bar
+open in your browse
+```
+
 # HTML
 ```html
 <!DOCTYPE html>
@@ -32,11 +39,6 @@ This is a search bar in this project I use HTML, CSS and Material Icons
 </html>
 ```
 
-```sh
-git clone https://github.com/asalinasf/search-bar/
-cd search-bar
-open in your browse
-```
 
 # CSS
 ```css
